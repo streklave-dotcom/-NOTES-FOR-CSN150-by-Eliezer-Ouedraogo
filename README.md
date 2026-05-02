@@ -139,4 +139,21 @@ This project is intended for **educational and ethical testing purposes** only. 
 ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, JavaScript, Cybersecurity, Ethical Hacking, ESP32 WiFi, IoT, WiFi Pentesting
 ```
 
----
+YOUR_NAME : ELIEZER OUEDRAOGO NOTES FOR CSN150
+Equipment Used: ESP32 CAM
+Tools used: Arduino.
+Steps I Followed: Repository Setup: Forked the project and cloned it locally using Git.
+
+IDE Prep: Configured Arduino IDE with the ESP32 Board Manager and installed necessary libraries (DNSServer, WebServer).
+
+Hardware Connection: Connected the ESP32-CAM to the PC and selected the correct COM port.
+
+Firmware Customization: Edited the .ino file to define the target SSID and customized the HTML captive portal files for the "legitimate" look.
+
+Flashing: Put the ESP32 into bootloader mode (GPIO 0 to GND) and uploaded the sketch.
+
+Deployment: Disconnected GPIO 0, reset the board, and verified the rogue Access Point appeared on local devices.
+
+Verification: Confirmed that the Captive Portal successfully redirected traffic and logged test inputs to the Serial Monitor.
+Problems / Solutions: 
+Final Report:NO ISSUE HAPPEN DURING THE PROCESS.
