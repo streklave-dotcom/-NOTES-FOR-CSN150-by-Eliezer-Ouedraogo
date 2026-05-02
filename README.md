@@ -139,7 +139,7 @@ This project is intended for **educational and ethical testing purposes** only. 
 ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, JavaScript, Cybersecurity, Ethical Hacking, ESP32 WiFi, IoT, WiFi Pentesting
 ```
 
-YOUR_NAME : ELIEZER OUEDRAOGO NOTES FOR CSN150
+ELIEZER OUEDRAOGO NOTES FOR CSN150
 Equipment Used: ESP32 CAM
 Tools used: Arduino.
 Steps I Followed: Repository Setup: Forked the project and cloned it locally using Git.
